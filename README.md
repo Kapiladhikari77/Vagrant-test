@@ -1,2 +1,0 @@
-# Vagrant-test
-learning vagrant
